@@ -4,8 +4,7 @@ Insertion Sort Project given by patika.dev in Data Structures and Algorithms sec
 
 [Ödev Sayfası](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
 
-# Insertion-Sort-Projesi
-Insertion Sort Projesi 
+
 
 **[22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamaları:**
 
